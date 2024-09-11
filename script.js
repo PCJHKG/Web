@@ -2,8 +2,8 @@
 var SoundButtonNumber =  document.querySelectorAll(".Soundbuttons").length;
 
 var audioR32 = new Audio('Sounds/R32.mp3');
-var audioR33 = new Audio('Sounds/R33.mp3');
-var audioR34 = new Audio('Sounds/R34.mp3');
+var audioR33 = new Audio('Sounds/R33.MP3');
+var audioR34 = new Audio('Sounds/R34.MP3');
 var audioR35 = new Audio('Sounds/R35.mp3');
 
 audioR32.volume = 0.2;
